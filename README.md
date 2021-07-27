@@ -1,2 +1,2 @@
 # scapp1
-test app fro scripting course
+test app from scripting course
